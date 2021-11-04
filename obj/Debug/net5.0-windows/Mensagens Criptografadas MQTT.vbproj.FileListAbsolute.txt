@@ -1,0 +1,19 @@
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\Mensagens Criptografadas MQTT.vbproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\Mensagens Criptografadas MQTT.vbproj.GenerateResource.cache
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\Mensagens Criptografadas MQTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\Mensagens Criptografadas MQTT.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\Mensagens Criptografadas MQTT.AssemblyInfo.vb
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\Mensagens Criptografadas MQTT.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\bin\Debug\net5.0-windows\Mensagens Criptografadas MQTT.exe
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\bin\Debug\net5.0-windows\Mensagens Criptografadas MQTT.deps.json
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\bin\Debug\net5.0-windows\Mensagens Criptografadas MQTT.runtimeconfig.json
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\bin\Debug\net5.0-windows\Mensagens Criptografadas MQTT.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\bin\Debug\net5.0-windows\Mensagens Criptografadas MQTT.dll
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\bin\Debug\net5.0-windows\ref\Mensagens Criptografadas MQTT.dll
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\bin\Debug\net5.0-windows\Mensagens Criptografadas MQTT.pdb
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\bin\Debug\net5.0-windows\M2Mqtt.Net.dll
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\Mensagens Criptografadas MQTT.dll
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\ref\Mensagens Criptografadas MQTT.dll
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\Mensagens Criptografadas MQTT.pdb
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\Mensagens Criptografadas MQTT.genruntimeconfig.cache
+C:\Users\eduar\source\repos\MensagensCriptografadas\Mensagens Criptografadas MQTT\obj\Debug\net5.0-windows\Mensagens_Criptografadas_MQTT.FrmPrincipal.resources
